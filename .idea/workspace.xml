@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f4dcd4d7-5417-4806-a360-8462440d62cd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/homework_Selenium.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BringItOn/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BringItOn/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BringItOn/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BringItOn/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BringItOn/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BringItOn/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BringItOn/BringItOn.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BringItOn/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BringItOn/src/test/java/com/epam/automation/NewSheriffTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BringItOn/src/test/java/com/epam/automation/pages/NewSheriff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BringItOn/src/test/java/com/epam/automation/pages/NewSheriffCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BringItOn/target/test-classes/com/epam/automation/NewSheriffTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BringItOn/target/test-classes/com/epam/automation/pages/NewSheriff.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BringItOn/target/test-classes/com/epam/automation/pages/NewSheriffCheck.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/I can win/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/I can win/.idea/I can win.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/I can win/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/I can win/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/I can win/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/I can win/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/I can win/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/I can win/I can win.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/I can win/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/I can win/src/test/java/com/epam/automation/NewPasteTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/I can win/src/test/java/com/epam/automation/pages/NewPaste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/I can win/src/test/java/com/epam/automation/pages/NewPasteCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/I can win/target/test-classes/com/epam/automation/NewPasteTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/I can win/target/test-classes/com/epam/automation/pages/NewPaste.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/I can win/target/test-classes/com/epam/automation/pages/NewPasteCheck.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1nZ3f93ltGX6cR3zgzpQD5X59kS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4dcd4d7-5417-4806-a360-8462440d62cd" name="Default Changelist" comment="" />
+      <created>1611583886144</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611583886144</updated>
+    </task>
+    <servers />
+  </component>
+</project>
